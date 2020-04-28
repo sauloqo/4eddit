@@ -23,14 +23,14 @@ Por ser um projeto de React, há a necessidade de ter o NodeJS instalado. Com el
 
 ## Dados de um usuário já criado para testar o Frontend
 
-Link para acessar o 4ddit: http://4edditproject.s3-website-us-east-1.amazonaws.com/
+Link para acessar o 4ddit: http://4edditproject.s3-website-us-east-1.amazonaws.com/ <br />
 
-Login para teste: user@test.com
+Login para teste: user@test.com <br />
 Senha: 123456
 
 ## Contato
-
-Nome: Saulo Quaresma Oliveira
-Linkedin: https://www.linkedin.com/in/saulo-quaresma-oliveira-843b3293/
-Email: sauloquaresma@gmail.com
+ 
+Nome: Saulo Quaresma Oliveira <br />
+Linkedin: https://www.linkedin.com/in/saulo-quaresma-oliveira-843b3293/ <br />
+Email: sauloquaresma@gmail.com <br />
 Telefone: (48) 98490-8951
